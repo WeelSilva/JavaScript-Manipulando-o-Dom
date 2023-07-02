@@ -57,3 +57,5 @@ function atualizaEstatistica(peca) {
         elemento.textContent = parseInt(elemento.textContent) + pecas[peca][elemento.dataset.estatistica]
     })
 }
+
+//finalizando curso
